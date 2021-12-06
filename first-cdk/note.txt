@@ -1,0 +1,5 @@
+cdk commands:
+cdk init app --language typescript
+cdk synth
+cdk bootstrap
+cdk deploy
